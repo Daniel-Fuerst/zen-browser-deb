@@ -17,7 +17,7 @@ get_Version() {
 # Define package name and version
 PACKAGE_NAME="zen-browser-deb"
 VERSION=$(get_Version)
-MAINTAINER="Daniel Fuerst <daniel@fuerst.priv.at>"
+MAINTAINER="Your Self <yourself@example.com>"
 DESCRIPTION=".deb wrapper for the Zen Browser tarball"
 
 # Create the package directory structure
